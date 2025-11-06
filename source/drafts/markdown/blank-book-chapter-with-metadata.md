@@ -14,16 +14,16 @@ chapter_title: In the Cat-Bird's Nook
 
 # Contributors
 contributors: 
-  - Person 1 # 
+  - Person 1 # Emily VanDette
 
 # Editors
 file_edited_by: 
-  - Person 1 # Emily VanDette
+# Emily VanDette
 ---
 
-# Book Chapter Title Here In the Cat-Bird's Nook
+# In the Cat-Bird's Nook
 
-# Heading level 1 IN THE CAT-BIRD'S NOOK. 
+# IN THE CAT-BIRD'S NOOK. 
 
 
 
